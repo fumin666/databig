@@ -1,0 +1,231 @@
+.content-right .header {
+  width: 100%;
+  padding: 14px 20px 0px;
+  box-sizing: border-box;
+  overflow: hidden; }
+  .content-right .header .hea {
+    width: 25%;
+    float: left;
+    margin-bottom: 29px; }
+    .content-right .header .hea h3 {
+      font-size: 14px;
+      color: #73879c;
+      font-weight: 100; }
+    .content-right .header .hea h2 {
+      font-size: 30px;
+      color: #73879c; }
+    .content-right .header .hea .ss {
+      width: 100%;
+      min-height: 120px; }
+
+.content-right .content {
+  width: 93%;
+  background: #fff;
+  margin: 0 auto;
+  padding: 0 16px; }
+  .content-right .content .content-top {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 2px solid #e6e9ed; }
+    .content-right .content .content-top .sub-title-tit-left {
+      float: left; }
+      .content-right .content .content-top .sub-title-tit-left h3 {
+        font-size: 24px;
+        font-weight: 100;
+        color: #73879c;
+        display: inline-block; }
+      .content-right .content .content-top .sub-title-tit-left h4 {
+        font-size: 16px;
+        font-weight: 100;
+        color: #777777;
+        display: inline-block; }
+    .content-right .content .content-top .sub-title-tit-right {
+      float: right; }
+      .content-right .content .content-top .sub-title-tit-right input {
+        width: 288px;
+        height: 30px;
+        font-size: 14px;
+        color: #bdbdbd;
+        text-align: center;
+        border: 1px solid #bdbdbd;
+        outline: none; }
+  .content-right .content .content-cen {
+    width: 100%;
+    overflow: hidden;
+    min-height: 278px; }
+
+.content-right .sub-title1 {
+  margin-top: 10px;
+  overflow: hidden;
+  background: #f7f7f7;
+  padding: 0;
+  width: 96.4%; }
+  .content-right .sub-title1 .sub1 {
+    width: 31.9%;
+    margin-right: 2%;
+    float: left;
+    min-height: 318px;
+    background: #fff;
+    padding: 0 17px 0px;
+    box-sizing: border-box;
+    border: 1px solid #e6e9ed; }
+    .content-right .sub-title1 .sub1 .tit {
+      overflow: hidden;
+      height: 48px;
+      line-height: 48px;
+      border-bottom: 2px solid #e6e9ed; }
+      .content-right .sub-title1 .sub1 .tit h3 {
+        font-size: 16px;
+        color: #73879c;
+        float: left; }
+      .content-right .sub-title1 .sub1 .tit .tools {
+        float: right;
+        margin-top: 16px; }
+        .content-right .sub-title1 .sub1 .tit .tools img {
+          float: left;
+          width: 16px;
+          height: 14px;
+          margin-right: 10px; }
+    .content-right .sub-title1 .sub1 .weather {
+      padding-top: 18px; }
+      .content-right .sub-title1 .sub1 .weather h3 {
+        font-size: 14px;
+        color: #7387b4; }
+        .content-right .sub-title1 .sub1 .weather h3 span {
+          color: #73879c;
+          font-weight: 100; }
+      .content-right .sub-title1 .sub1 .weather .wea-l {
+        width: 30%;
+        min-height: 90px;
+        float: left;
+        margin-top: 5px; }
+      .content-right .sub-title1 .sub1 .weather p {
+        float: left;
+        width: 70%;
+        font-size: 17px;
+        color: #73879c;
+        padding-top: 10px;
+        padding-left: 10px;
+        box-sizing: border-box;
+        font-weight: 600; }
+      .content-right .sub-title1 .sub1 .weather .wea-date {
+        width: 100%;
+        height: 58px;
+        line-height: 58px;
+        overflow: hidden;
+        text-align: right;
+        font-size: 20px;
+        color: #73879c; }
+      .content-right .sub-title1 .sub1 .weather .wea-ul {
+        width: 100%;
+        overflow: hidden; }
+        .content-right .sub-title1 .sub1 .weather .wea-ul li {
+          width: 12%;
+          margin-right: 5.4%;
+          float: left; }
+          .content-right .sub-title1 .sub1 .weather .wea-ul li h2 {
+            font-size: 14px;
+            color: #73879c;
+            padding: 5px 0;
+            border-top: 2px solid #ccd4db;
+            border-bottom: 2px solid #ccd4db;
+            font-weight: 100;
+            text-align: center; }
+          .content-right .sub-title1 .sub1 .weather .wea-ul li h3 {
+            margin-top: 10px;
+            margin-bottom: 14px;
+            font-size: 22px;
+            font-weight: 100;
+            color: #73879c;
+            text-align: center; }
+          .content-right .sub-title1 .sub1 .weather .wea-ul li .wea-c {
+            height: 32px;
+            width: 100%; }
+          .content-right .sub-title1 .sub1 .weather .wea-ul li h5 {
+            margin: 16px 0 29px;
+            font-size: 14px;
+            color: #73879c;
+            font-weight: 100; }
+        .content-right .sub-title1 .sub1 .weather .wea-ul li:last-child {
+          margin-right: 0; }
+    .content-right .sub-title1 .sub1 .sub-title-content2-left-con, .content-right .sub-title1 .sub1 .sub-title-content2-center-con, .content-right .sub-title1 .sub1 .sub-title-content2-right-con {
+      width: 100%;
+      height: 256px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis; }
+    .content-right .sub-title1 .sub1 .kk {
+      height: 216px; }
+    .content-right .sub-title1 .sub1 .cc {
+      height: 175px; }
+      .content-right .sub-title1 .sub1 .cc ul li h3 {
+        font-size: 14px;
+        color: #73879c;
+        font-weight: 100; }
+        .content-right .sub-title1 .sub1 .cc ul li h3 span {
+          float: right; }
+      .content-right .sub-title1 .sub1 .cc ul li .chart {
+        width: 100%;
+        height: 36px; }
+    .content-right .sub-title1 .sub1 .sub-title-content2-right-con {
+      padding: 22px 0 0 14px;
+      box-sizing: border-box; }
+      .content-right .sub-title1 .sub1 .sub-title-content2-right-con .as {
+        width: 45%;
+        display: inline-block;
+        vertical-align: top; }
+        .content-right .sub-title1 .sub1 .sub-title-content2-right-con .as ul li {
+          line-height: 28px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis; }
+          .content-right .sub-title1 .sub1 .sub-title-content2-right-con .as ul li a {
+            font-size: 13px;
+            color: #5a738e; }
+            .content-right .sub-title1 .sub1 .sub-title-content2-right-con .as ul li a img {
+              width: 16px;
+              height: 16px;
+              margin-right: 8px;
+              vertical-align: middle; }
+      .content-right .sub-title1 .sub1 .sub-title-content2-right-con .as-r {
+        width: 50%;
+        display: inline-block;
+        height: 186px;
+        border: 1px solid #abd9ea;
+        border-radius: 4px;
+        box-sizing: border-box; }
+  .content-right .sub-title1 .sub2 {
+    min-height: 440px; }
+  .content-right .sub-title1 .sub3 {
+    min-height: 403px; }
+  .content-right .sub-title1 .sub1:last-child {
+    margin-right: 0; }
+
+.content-right .content2 {
+  margin-bottom: 72px; }
+
+@media screen and (max-width: 990px) {
+  .bigbox .content-left {
+    display: none; }
+  .bigbox .content-right {
+    width: 100% !important;
+    margin: 0 auto; }
+    .bigbox .content-right .content {
+      width: 94.5%;
+      margin: 0 11px; }
+    .bigbox .content-right .sub-title1 {
+      width: 100%;
+      margin-top: 10px; }
+      .bigbox .content-right .sub-title1 .sub1 {
+        width: 48%;
+        float: left;
+        margin-bottom: 10px; }
+      .bigbox .content-right .sub-title1 .sub1:nth-child(2n) {
+        margin-right: 0; }
+      .bigbox .content-right .sub-title1 .sub1:last-child {
+        margin-right: 2%; } }
+
+@media screen and (max-width: 760px) {
+  .bigbox .content-right .content .sub1 {
+    width: 100%; } }

@@ -1,0 +1,129 @@
+.content{
+	width:100%;	
+	padding:10px 20px 70px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.con-top{
+	margin-bottom: 20px;
+}
+.content h3{
+	display: inline;
+	font-size: 22px;
+	color: #73879C;
+	font-weight: 500;
+}
+.content input{
+	width: 20%;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 20px;
+	border: 1px solid rgba(221,226,232,.49);
+	outline: none;
+	text-indent: 15px;
+	float: right;
+    margin-top: 5px;
+}
+.box{
+	width:100%;
+	background: #fff;
+	border:1px solid #e6e9ed;
+	padding:0 18px;
+	margin-top: 10px;
+	box-sizing: border-box;
+}
+.box-title{
+	width: 100%;
+	height: 48px;
+	line-height: 48px;
+	box-sizing: border-box;
+	border-bottom:2px solid #e6e9ed;
+}
+.box-title h3{
+	font-size: 20px;
+	color: #76899f;
+	display: inline;
+}
+.box-title h3 span{
+	font-size: 12px;
+	color: #77777a;
+}
+.imgs{
+	float: right;
+	margin-top: 5px;
+}
+.box-con{
+	font-size: 12px;
+	color: #77777a;
+	height: 52px;
+	line-height: 52px;
+}
+.box-con span{
+	color: #c7254e;
+}
+.p1{
+	font-size: 20px;
+	line-height: 24px;
+	border-bottom:1px solid #e5e5e5;
+	color: #333333;
+	margin-bottom: 20px;
+}
+.box .aa{
+	font-size: 13px;
+	color: #73879c;
+}
+.box .aa span{
+	width: 26%;
+    display: inline-block;
+    text-align: right;
+	vertical-align: middle;
+}
+.box .aa input{
+	height: 30px;
+	width: 50%;
+	border:1px solid #cccccc;
+	border-radius: 0;
+	float: none;
+	margin-bottom: 10px;
+}
+.kk{
+	border-bottom:1px solid #e5e5e5;
+	margin-bottom: 16px;
+}
+textarea{
+	height: 30px;
+	width: 50%;
+	border:1px solid #cccccc;
+	margin-bottom: 20px;
+	vertical-align: top;
+}
+.ss{
+	width: 100%;
+	margin-left: 25%;
+	margin-bottom: 20px;
+}
+.ss input{
+	width: 70px;
+	height: 34px;
+	line-height: 34px;
+	border-radius: 4px;
+	color: #fff;
+	float: none;
+	text-align: center;
+	text-indent: 0;
+}
+.ss .cancel{
+	background: #337ab7;
+}
+.ss .submit{
+	background: #26b99a;
+}
+
+@media screen and (max-width: 990px) {
+  	.bigbox .content-left {
+   		display: none; 
+	}
+  	.bigbox .content-right {
+    	width: 100% !important; 
+    }
+}

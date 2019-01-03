@@ -1,0 +1,138 @@
+body, p, dl, dd, ul, ol, li, div, h1, h2, h3, h4, h5, h6, form, input, table, tr, td {
+  margin: 0;
+  padding: 0; }
+
+ul, ol {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+img {
+  border: 0; }
+
+.bigbox {
+  overflow: hidden; }
+  .bigbox .content-left {
+    width: 18%;
+    background: #2a3f54;
+    float: left;
+    padding: 12px 0 0 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    margin-bottom: -10000px;
+    padding-bottom: 10000px; }
+    .bigbox .content-left .con-left-top a img {
+      width: 34px;
+      height: 34px;
+      vertical-align: middle; }
+    .bigbox .content-left .con-left-top span {
+      font-size: 22px;
+      color: #ecf0f1;
+      vertical-align: middle; }
+    .bigbox .content-left .con-left-cen {
+      overflow: hidden;
+      padding-top: 30px; }
+      .bigbox .content-left .con-left-cen .imgs {
+        float: left; }
+        .bigbox .content-left .con-left-cen .imgs a img {
+          margin: 0 20px 24px 0;
+          width: 56px;
+          height: 56px; }
+      .bigbox .content-left .con-left-cen .person {
+        float: left;
+        margin-top: 10px; }
+        .bigbox .content-left .con-left-cen .person p {
+          line-height: 22px; }
+        .bigbox .content-left .con-left-cen .person .welcome {
+          font-size: 16px;
+          color: #bab8b8; }
+        .bigbox .content-left .con-left-cen .person .joh {
+          font-size: 14px;
+          color: #ecf0f1; }
+    .bigbox .content-left .con-left-uls {
+      width: 100%;
+      margin-bottom: 12px; }
+      .bigbox .content-left .con-left-uls h3 {
+        font-size: 12px;
+        color: #fff;
+        clear: both; }
+      .bigbox .content-left .con-left-uls .uls li {
+        padding: 14px 16px 16px 0;
+        color: #e7e7e7;
+        font-size: 14px; }
+        .bigbox .content-left .con-left-uls .uls li a {
+          display: block;
+          color: #e7e7e7; }
+          .bigbox .content-left .con-left-uls .uls li a img {
+            width: 20px;
+            height: 16px;
+            margin-right: 12px;
+            vertical-align: middle; }
+        .bigbox .content-left .con-left-uls .uls li .as {
+          box-shadow: rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0;
+          background: #304356; }
+        .bigbox .content-left .con-left-uls .uls li span {
+          width: 16px;
+          height: 14px;
+          background: url(../img/down.jpg) no-repeat;
+          float: right;
+          margin-top: 5px; }
+        .bigbox .content-left .con-left-uls .uls li .child-uls {
+          display: none;
+          margin-right: -16px; }
+          .bigbox .content-left .con-left-uls .uls li .child-uls li {
+            padding: 12px 0 12px 32px; }
+            .bigbox .content-left .con-left-uls .uls li .child-uls li a {
+              font-size: 14px;
+              color: #c9cfd4; }
+        .bigbox .content-left .con-left-uls .uls li .f1 {
+          border-right: 4px solid #1ABB9C; }
+    .bigbox .content-left .live {
+      margin-top: 32px; }
+    .bigbox .content-left .left-footer {
+      height: 35px;
+      width: 18%;
+      background: #172d44;
+      line-height: 35px;
+      text-align: center;
+      margin-left: -12px;
+      position: fixed;
+      bottom: 0; }
+      .bigbox .content-left .left-footer ul {
+        overflow: hidden;
+        width: 100%; }
+        .bigbox .content-left .left-footer ul li {
+          width: 25%;
+          float: left; }
+  .bigbox .content-right {
+    width: 82%;
+    background: #f7f7f7;
+    float: right;
+    overflow: hidden;
+    margin-bottom: -10000px;
+    padding-bottom: 10000px; }
+    .bigbox .content-right .content-right-header {
+      width: 97%;
+      height: 57px;
+      line-height: 57px;
+      padding: 0 15px;
+      background: #ededed;
+      border-bottom: 1px solid #d9dee4; }
+      .bigbox .content-right .content-right-header a img {
+        width: 22px;
+        height: 22px; }
+      .bigbox .content-right .content-right-header .person-message {
+        float: right; }
+        .bigbox .content-right .content-right-header .person-message .info img {
+          margin-right: 28px;
+          width: 16px;
+          height: 12px; }
+        .bigbox .content-right .content-right-header .person-message .message {
+          font-size: 14px;
+          color: #515356; }
+          .bigbox .content-right .content-right-header .person-message .message img {
+            width: 29px;
+            height: 29px;
+            margin-right: 10px;
+            vertical-align: middle; }
